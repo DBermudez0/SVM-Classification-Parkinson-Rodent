@@ -4,3 +4,6 @@ Binary Classification Algorithm for Parkinson Rodent
 BORIS 
  ("https://www.boris.unito.it/")
  
+ <h2> Behavioral video used for stepping classification </h2>
+ <object data="Behavior_1.avi" width="360" height="250"> <param name="src" value="Behavior_1.avi" /> </object>
+ 
