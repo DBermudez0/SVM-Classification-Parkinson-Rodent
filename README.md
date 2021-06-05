@@ -5,5 +5,9 @@ BORIS
  ("https://www.boris.unito.it/")
  
  <h2> Behavioral video used for stepping classification </h2>
- <object data="Behavior_1.avi" width="360" height="250"> </object>
+ ![Behavior_5](https://user-images.githubusercontent.com/34778425/120874007-93b52d00-c572-11eb-80e5-1597e6bfae11.gif)
+
+
+
+
  
